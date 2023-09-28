@@ -12,3 +12,12 @@ button {
   padding: .5em;
   margin: 1em auto;
 }
+
+.counter {
+  font-size: 2em;
+  font-family: monospace;
+}
+
+.hotpink {
+  color: hotpink;
+}
